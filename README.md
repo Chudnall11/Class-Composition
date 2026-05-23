@@ -46,4 +46,4 @@ This project was completed as part of a class assignment for CSIS 212.
 
 ## Program Output
 
-![Program Output](Output Screenshots/class-composition-output.png)
+![Program Output](output-screenshots/class-composition-output.png)
